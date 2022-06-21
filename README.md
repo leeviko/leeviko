@@ -10,5 +10,6 @@
 - :books: Read 
 - :computer: Code 
 - :video_game: Play videogames 
-- :tv: Watch TV-shows 
+- :tv: Watch TV-shows
+- 🎧 Listen to music
 - :runner: Run
