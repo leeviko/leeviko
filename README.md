@@ -8,4 +8,4 @@ I do random web projects if I get inspiration or ideas.
 
 💎 I mainly code with `React` and `Node.js`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeviko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeviko&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
