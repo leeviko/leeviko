@@ -7,3 +7,5 @@ I do random web projects if I get inspiration or ideas.
 🖥️ Started programming in around year 2018
 
 💎 I mainly code with `React` and `Node.js`
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeviko)](https://github.com/anuraghazra/github-readme-stats)
