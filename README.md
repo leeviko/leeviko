@@ -1,12 +1,8 @@
 # Hello 👋
 
-👉 I'm a programmer mainly focused in web development.
+👉 I'm a Full Stack developer.  
+🚀 I build random projects whenever inspiration strikes.  
+🖥️ Coding since 2019.  
+💎 Mostly code with `React` and `Node.js`.  
 
-I do random projects if I get inspiration or ideas.
-
-🖥️ Started programming in around year 2018
-
-💎 I mainly code with `React` and `Node.js`
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeviko&theme=transparent&hide=c,css,html,PLpgSQL,GLSL,Batchfile,Dockerfile,CMake)](https://github.com/anuraghazra/github-readme-stats)
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=leeviko&theme=transparent&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/6ca27043-c075-4fd1-97e2-7794bd31f879.svg)](https://wakatime.com/@6ca27043-c075-4fd1-97e2-7794bd31f879)
